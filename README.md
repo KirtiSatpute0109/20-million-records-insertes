@@ -1,1 +1,1 @@
-# 20-million-records-insertes
+# 20-million-records-inserted
